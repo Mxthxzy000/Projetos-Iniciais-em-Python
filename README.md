@@ -12,7 +12,7 @@ Script inicial para demonstração de saída de dados no terminal.
 Demonstração da utilização de diversos operadores matemáticos nativos do Python.
 * **Funcionalidade:** Realiza cálculos de adição, subtração, multiplicação, divisão (comum e inteira), módulo e exponenciação.
 
-### 3. imput.py
+### 3. input.py
 Script focado em interação com o usuário e lógica condicional.
 * **Funcionalidade:** Solicita o nome e a idade do utilizador e utiliza estruturas `if/elif/else` para determinar se a pessoa é maior ou menor de idade.
 
