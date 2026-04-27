@@ -1,35 +1,35 @@
-Projetos Iniciais em Python
-Este repositório contém uma coleção de scripts desenvolvidos em Python para o estudo de fundamentos da linguagem, incluindo manipulação de variáveis, operadores aritméticos, estruturas condicionais e entrada de dados.
+# Repositório de Estudos Python
 
-Descrição dos Arquivos
-1. olamundo.py
-Script básico para demonstração de saída de dados no terminal.
+Este repositório contém uma coleção de scripts desenvolvidos em Python para o estudo de fundamentos da linguagem, abordando conceitos como entrada de dados, operadores aritméticos e estruturas condicionais.
 
-Funcionalidade: Exibe a mensagem de boas-vindas padrão na tela.
+## Descrição dos Arquivos
 
-2. numeros.py
-Demonstração da utilização de operadores matemáticos em Python.
+### 1. olamundo.py
+Script inicial para demonstração de saída de dados no terminal.
+* **Funcionalidade:** Exibe uma mensagem de texto simples na tela.
 
-Funcionalidade: Realiza operações de adição, subtração, multiplicação, divisão convencional, divisão inteira, módulo (resto da divisão) e exponenciação com variáveis predefinidas.
+### 2. numeros.py
+Demonstração da utilização de diversos operadores matemáticos nativos do Python.
+* **Funcionalidade:** Realiza cálculos de adição, subtração, multiplicação, divisão (comum e inteira), módulo e exponenciação.
 
-3. imput.py
-Script focado em interação com o usuário e validação de dados simples.
+### 3. imput.py
+Script focado em interação com o usuário e lógica condicional.
+* **Funcionalidade:** Solicita o nome e a idade do utilizador e utiliza estruturas `if/elif/else` para determinar se a pessoa é maior ou menor de idade.
 
-Funcionalidade: Solicita o nome e a idade do usuário, processando se o mesmo é maior ou menor de idade através de estruturas de controle (if/elif/else).
+### 4. medidordeimc.py
+Calculadora de Índice de Massa Corporal (IMC) com classificação de saúde.
+* **Funcionalidade:** Recebe peso e altura, calcula o IMC e classifica o resultado entre as categorias de "abaixo do peso" até "obesidade III".
 
-4. medidordeimc.py
-Calculadora de Índice de Massa Corporal (IMC).
+## Tecnologias Utilizadas
 
-Funcionalidade: Coleta dados de peso e altura, realiza o cálculo matemático do IMC e classifica o resultado de acordo com as faixas de peso (abaixo do peso, peso ideal, sobrepeso e graus de obesidade).
+* Python 3.x
 
-Tecnologias Utilizadas
-Python 3.x
+## Como Executar
 
-Como Executar os Scripts
-Para executar qualquer um dos arquivos, certifique-se de ter o Python instalado em seu ambiente e utilize o comando abaixo no terminal:
+Para executar qualquer um dos scripts, utilize o comando abaixo no seu terminal ou prompt de comando:
 
-Bash
+```bash
 python nome_do_arquivo.py
 
-Autor
-Matheus Quirino
+## Autor
+* **Matheus Quirino**
