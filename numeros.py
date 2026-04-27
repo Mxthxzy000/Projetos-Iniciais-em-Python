@@ -1,0 +1,9 @@
+numero1 = 4
+numero2 = 6
+print(numero1 + numero2)
+print(numero1 * numero2)
+print(numero1 - numero2)
+print(numero1 / numero2)
+print(numero1 // numero2)
+print(numero1 % numero2)
+print(numero1 ** numero2)
